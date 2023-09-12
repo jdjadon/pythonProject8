@@ -2,7 +2,6 @@ import math
 import numpy as np
 from scipy.stats import weibull_min
 import matplotlib.pyplot as plt
-from scipy.interpolate import griddata
 import pandas as pd
 
 # Sample time-to-failure data
